@@ -10,7 +10,7 @@
 ⚙️ Как запустить проект
 Клонировать репозиторий:
 git clone <ссылка на репозиторий>
-cd nginx-lab
+cd nginx-lab-1
 Запустить контейнеры:
 
 docker-compose up -d --build
